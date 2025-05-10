@@ -1,0 +1,98 @@
+{
+    "Набор LEGO 7140 - X-wing Люка скайвркера 1999 года выпуска":{
+        "article number": "7140",
+        "line": "StarWars",
+        "name": "X-Wing Fighter",
+        "year": "1999",
+        "pices": "266",
+        "price": "24000",
+        "images": [
+            "Photo/X-wing.jpg",
+            "Photo/X-wing2.png"
+        ]
+    },
+    "Набор LEGO 4709 - замок Хогвартс 2001 года выпуска":{
+        "article number": "4709",
+        "line": "Harry Potter",
+        "name": "Hogwarts Castle",
+        "year": "2001",
+        "pices": "682",
+        "price": "32000",
+        "images": [
+            "Photo/Harry.jpg",
+            "Photo/Harry2.png"
+        ]
+    },
+    "Набор LEGO 8635 - база шпионов в грузовике-трансформере 2008 года выпуска":{
+        "article number": "8635",
+        "line": "Agents / Alpha Team",
+        "name": "Mobile Command Center",
+        "year": "2008",
+        "pices": "503",
+        "price": "36000",
+        "images": [
+            "Photo/Agents.png",
+            "Photo/Agents2.png"
+        ]
+    },
+    "Набор LEGO 7477 - вертолёт с пушками против динозавра 2005 года выпуска":{
+        "article number": "7477",
+        "line": "Dino Attack / Dino 2010",
+        "name": "T-1 Typhoon vs. T-Rex",
+        "year": "2005",
+        "pices": "340",
+        "price": "18000",
+        "images": [
+            "Photo/Dino.jfif",
+            "Photo/Dino2.png"
+        ]
+    },
+    "Набор LEGO 71042 - разрушенный корабль-призрак капитана Салазара 2017 года выпуска":{
+        "article number": "71042",
+        "line": "Pirates of the Caribbean",
+        "name": "Silent Mary",
+        "year": "2017",
+        "pices": "2294",
+        "price": "68000",
+        "images": [
+            "Photo/Caribi.jfif",
+            "Photo/Caribi2.png"
+        ]
+    },
+    "Набор LEGO 75252 — Имперский Звёздный Разрушитель":{
+        "article number": "75252",
+        "line": "Star Wars – Ultimate Collector Series (UCS)",
+        "name": "Imperial Star Destroyer",
+        "year": "2019",
+        "pices": "4784",
+        "price": "200000",
+        "images": [
+            "Photo/Wars.png",
+            "Photo/Wars2.png"
+        ]
+    },
+    "Набор LEGO 10300 — Назад в будущее: Делориан":{
+        "article number": "10300",
+        "line": "LEGO Icons",
+        "name": "Back to the Future Time Machine",
+        "year": "2022",
+        "pices": "1872",
+        "price": "120000",
+        "images": [
+            "Photo/Future.png",
+            "Photo/Future2.jpg"
+        ]
+    },
+    "Набор LEGO 76218 — Sanctum Sanctorum":{
+        "article number": "76218",
+        "line": "Marvel / Infinity Saga",
+        "name": "Sanctum Sanctorum",
+        "year": "2022",
+        "pices": "2708",
+        "price": "140000",
+        "images": [
+            "Photo/Marvel.png",
+            "Photo/Marvel2.jpg"
+        ]
+    }
+}

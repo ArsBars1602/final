@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Корзина - LegoZine</title>
+    <meta name="description" content="Ваша корзина покупок">
+    <link rel="stylesheet" href="box.css" type="text/css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
+</head>
+<body>
+    <canvas id="legoCanvas"></canvas>
+    <header>
+        <img src="Legozine.png" alt="LegoZine Logo">
+        <h1>LegoZine</h1>
+        <p>- магазин ретро наборов ЛЕГО</p>
+        <div id="zakazi">
+            <span class="material-symbols-outlined">
+                shopping_cart
+            </span>
+            <p id="counter">0</p>
+        </div>
+    </header>
+    <main>
+        <div id="cart-items"></div>
+        <div id="cart-total">
+            <h2>Итого: <span id="total-price">0</span> тенге</h2>
+        </div>
+        <button id="back-to-shop" class="checkout-button">Вернуться в магазин</button>
+    </main>
+    <footer>
+        <img src="Legozine.png" alt="LegoZine Logo">
+        <h1>LegoZine</h1>
+    </footer>
+    <script src="box.js"></script>
+</body>
+</html>
